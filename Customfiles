@@ -76,7 +76,7 @@ class CustomDialogWidget extends StatelessWidget {
 
             ),
 
-          ),
+          ),https://github.com/JohannesMilke/tab_bar_example
 
         ),
 
