@@ -1,0 +1,26 @@
+ClipRRect(
+
+  borderRadius: BorderRadius.circular(15.0),
+
+  child: Container(
+
+    height: 600,
+
+    width: 300,
+
+    child: TextField(
+
+      decoration: InputDecoration(
+
+        border: InputBorder.none,
+
+        hintText: 'Enter some text'
+
+      ),
+
+    ),
+
+  ),
+
+),
+
